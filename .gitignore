@@ -32,3 +32,6 @@ build/
 
 ### For shit of Mac
 .DS_Store
+
+### mvn wrapper
+/.mvn
